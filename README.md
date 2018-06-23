@@ -8,4 +8,4 @@ Repositorio de ejemplo para el taller de git
 
 ### Lista de participantes:
 
-Antonio Marcos Bernal https://github.com/ambernal
+Antonio Marcos Bernal  https://github.com/ambernal
